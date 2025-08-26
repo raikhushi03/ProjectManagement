@@ -22,27 +22,6 @@ Create projects, add tasks inside them, and keep everything organized with ease.
 - **Tailwind CSS** – styling  
 - **JavaScript (ES6+)**
 
-projeXpert/
-│
-├── src/
-│ ├── components/
-│ │ ├── NewProjects.jsx
-│ │ ├── NoProjectSelected.jsx
-│ │ ├── ProjectsSidebar.jsx
-│ │ ├── SelectedProject.jsx
-│ │ ├── Tasks.jsx
-│ │ ├── NewTask.jsx
-│ │
-│ ├── App.jsx
-│ └── main.jsx
-│
-├── index.html
-├── package.json
-└── README.md
-
-
-
-
 ---
 
 ## ⚡ Getting Started
