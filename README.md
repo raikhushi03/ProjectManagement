@@ -25,10 +25,7 @@ Create projects, add tasks inside them, and keep everything organized with ease.
 ---
 ***✨ Future Improvements***
 
-i)Add local storage persistence
-
-ii)Add edit task/project functionality
-
-iii)Add completion status for tasks
-
-iv)Drag & drop task ordering
+- Add local storage persistence
+- Add edit task/project functionality
+- Add completion status for tasks
+- Drag & drop task ordering
