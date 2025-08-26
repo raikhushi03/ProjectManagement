@@ -23,20 +23,6 @@ Create projects, add tasks inside them, and keep everything organized with ease.
 - **JavaScript (ES6+)**
 
 ---
-
-## ⚡ Getting Started
-
-1. **Clone the repo**
-
-git clone https://github.com/your-username/flowforge.git
-cd flowforge
-
-2. **Install the Dependencies**
-   npm install
-
-4. **Run the Dev Server**
-   npm run dev
-
 ***✨ Future Improvements***
 
 i)Add local storage persistence
